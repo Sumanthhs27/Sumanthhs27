@@ -5,7 +5,7 @@ I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Intereste
 - 🔭 I’m currently working on Detectron (Deep Learning Web app based on YOLO V3.0)
 - 🌱 I’m currently learning Django Framework.
 - 👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/sumanthhs27) , [Email](hsumanth2707@gmail.com) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sumanthhs27/) , [Email](www.gmail.com) - hsumanth2707@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If nothing goes Right, take a Uturn.. :)
 
