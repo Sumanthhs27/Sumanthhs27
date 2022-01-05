@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello there! 👋🏻 I am Sumanth H S! ![alt text](https://github.com/Sumanthhs27/Sumanthhs27/blob/master/68747470733a2f2f692e696d6775722e636f6d2f76655a726343372e676966.gif)
+### Hello there! 👋🏻 I am Sumanth H S! ![alt text](https://github.com/Sumanthhs27/Sumanthhs27/blob/master/68747470733a2f2f692e696d6775722e636f6d2f76655a726343372e676966.gif=100*100)
 
 <!--
 **Sumanthhs27/Sumanthhs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
