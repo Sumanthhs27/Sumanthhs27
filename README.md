@@ -11,6 +11,7 @@ I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Intereste
 
 ## Few of my Projects
 
+- [Restaurant Review Prediction](https://sumanth-review-prediction.herokuapp.com/)
 
 <!--
 **Sumanthhs27/Sumanthhs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
