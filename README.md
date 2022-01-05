@@ -1,4 +1,4 @@
-## Hello there! 👋🏻 I am Sumanth H S! 
+# Hello there! 👋🏻 I am Sumanth H S! 
 
 I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Interested in Machine Learning, Deep Learning, creating end to end ML Web apps etc.
 
@@ -9,7 +9,7 @@ I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Intereste
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If nothing goes Right, take a Uturn.. :)
 
-## Few of my Projects
+# Few of my Projects
 
 - ### [Restaurant Review Prediction](https://sumanth-review-prediction.herokuapp.com/) -- A web app based on Classification model buit upon NLP, that predicts wether a review is Positive or Negative.
 - ### [Expense Tracker](https://react-expense-tracker-b4948.web.app/) -- A React web app which can be used to keep track of our daily expenses in a nice way.
