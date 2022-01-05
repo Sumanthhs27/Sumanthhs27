@@ -1,4 +1,4 @@
-# Hello there! 👋🏻 I am Sumanth H S! 🇮🇳
+# Hello there! 👋🏻 I am Sumanth H S! 😎
 
 I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Interested in Machine Learning, Deep Learning, creating end to end ML Web apps etc.
 
