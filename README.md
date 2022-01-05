@@ -11,9 +11,9 @@ I am Sumanth H S, 1st Year M.Tech Data Science student at IIT Roorkee. Intereste
 
 ## Few of my Projects
 
-- [Restaurant Review Prediction](https://sumanth-review-prediction.herokuapp.com/) -- A web app based on Classification model buit upon NLP, that predicts wether a review is Positive or Negative.
-- [Expense Tracker](https://react-expense-tracker-b4948.web.app/) -- A React web app which can be used to keep track of our daily expenses in a nice way.
-- [Weather App](http://wraithking.herokuapp.com/) -- A simple web app built using Javascript & Node JS to check the live temperature of any city in India..
+- #### [Restaurant Review Prediction](https://sumanth-review-prediction.herokuapp.com/) -- A web app based on Classification model buit upon NLP, that predicts wether a review is Positive or Negative.
+- #### [Expense Tracker](https://react-expense-tracker-b4948.web.app/) -- A React web app which can be used to keep track of our daily expenses in a nice way.
+- #### [Weather App](http://wraithking.herokuapp.com/) -- A simple web app built using Javascript & Node JS to check the live temperature of any city in India..
 
 [![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanthhs27&show_icons=true&theme=radical)](https://github.com/Sumanthhs27/github-readme-stats)
 
